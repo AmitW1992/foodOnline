@@ -163,11 +163,11 @@ MESSAGE_TAGS = {
 EMAIL_HOST='smtp.gmail.com'
 EMAIL_PORT=587
 EMAIL_HOST_USER='amitwarbhe92@gmail.com'
-EMAIL_HOST_PASSWORD='oawcugvromgnntvx'
+EMAIL_HOST_PASSWORD=''
 EMAIL_USE_TLS=True
 
 
-GOOGLE_API_KEY = 'AIzaSyBswiOw8KohVH9d1EbkCWO6utyDyjFWzxU'
+GOOGLE_API_KEY = ''
 
 
 os.environ['PATH'] = os.path.join(BASE_DIR, 'env\Lib\site-packages\osgeo') + ';' + os.environ['PATH']
